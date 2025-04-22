@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nkosinathi</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A passionate full-stack developer experienced in web & desktop development, UI/UX design, databases, and source controls.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkosinathi-dev1&label=Profile%20views&color=0e75b6&style=flat" alt="nkosinathi-dev1" /> </p>
 
